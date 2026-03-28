@@ -21,6 +21,7 @@ public class FirstTest {
         // Ищем текст на странице
         $("body").shouldHave(text("Google"));
 
+
         // Закрываем браузер
         closeWebDriver();
     }
