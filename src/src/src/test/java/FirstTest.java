@@ -23,7 +23,6 @@ public class FirstTest {
 
         // Закрываем браузер
         closeWebDriver();
-
     }
 }
 
